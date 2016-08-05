@@ -1,0 +1,67 @@
+<!-- The content-a section -->
+<div class="supporting">
+  <div class="container">
+  {#content-A-section}
+    <h3>{content-A-heading}</h3>
+    <p>{content-A-description}</p>
+  {/content-A-section}
+    <div class="row">
+      <div class="col-md-8">
+        <div class="thumbnail">
+          <a href="#"><img src="/images/the-avengers.jpg" alt="The Avengers"></a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="#"><img src="/images/harry-potter.jpg" alt="Harry Potter"></a>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="#"><img src="/images/frozen.jpg" alt="Frozen"></a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="#"><img src="/images/iron-man.jpg" alt="Iron Man"></a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="#"><img src="/images/transformers.jpg" alt="Transformers"></a>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="#"><img src="/images/lord-of-the-rings.jpg" alt="Lord of the Rings"></a>
+        </div>
+      </div>
+      <div class="col-md-8">
+        <div class="thumbnail">
+          <a href="#"><img src="/images/skyfall.jpg" alt="Skyfall"></a>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="#"><img src="/images/the-dark-knight.jpg" alt="The Dark Knight"></a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="#"><img src="/images/pirates-of-the-caribbean.jpg" alt="Pirates of the Caribbean"></a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <a href="#"><img src="/images/toy-story-3.jpg" alt="Toy Story 3"></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

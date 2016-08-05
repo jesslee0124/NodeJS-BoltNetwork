@@ -1,0 +1,38 @@
+<!-- The footer section -->
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+      {#footer-company}
+        <h6>{footer-company-heading}</h6>
+        <ul>
+          <li><a>{footer-company-list1}</a></li>
+          <li><a>{footer-company-list2}</a></li>
+          <li><a>{footer-company-list3}</a></li>
+        </ul>
+      {/footer-company}
+      </div>
+      <div class="col-md-3">
+      {#footer-company-more}
+        <h6>{footer-company-more-heading}</h6>
+        <ul>
+          <li><a>{footer-company-more-list1}</a></li>
+          <li><a>{footer-company-more-list2}</a></li>
+        </ul>
+      {/footer-company-more}
+      </div>
+      <div class="col-md-3">
+      {#footer-news}    
+        <h6>{footer-news-heading}</h6>
+        <ul>
+          <li><a>{footer-news-list1}</a></li>
+          <li><a>{footer-news-list2}</a></li>
+          <li><a>{footer-news-list3}</a></li>
+          <li><a>{footer-news-list4}</a></li>
+          <li><a>{footer-news-list5}</a></li>
+        </ul>
+      {/footer-news}
+      </div>
+    </div>
+  </div>
+</div>

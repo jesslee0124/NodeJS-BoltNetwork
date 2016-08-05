@@ -1,0 +1,9 @@
+<!-- The content-b section -->
+<div class="feature">
+  <div class="container">
+  {#content-B-section}
+    <h3>{content-B-heading}</h3>
+    <p>{content-B-description}</p>
+  {/content-B-section}
+  </div>
+</div>
